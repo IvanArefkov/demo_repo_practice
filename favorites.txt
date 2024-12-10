@@ -1,3 +1,10 @@
+Foods:
 Pizza
 Pasta
 Pop-corn
+
+Movies:
+Spider-man
+lorf-of the rings
+Harry Potter
+
